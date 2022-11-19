@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William Jonathan</h1>
 <h3 align="center">A Computer Science student from Indonesia</h3>
 
-<img align="right" alt="coding" width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40kitze%2Fjs-coding-challenge-1-test-your-skills-63c2af5446d0&psig=AOvVaw0wdWpE7m2sRUCxK-9AmElI&ust=1668947154791000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICBhOKeuvsCFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40kitze%2Fjs-coding-challenge-1-test-your-skills-63c2af5446d0&psig=AOvVaw0wdWpE7m2sRUCxK-9AmElI&ust=1668947154791000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICBhOKeuvsCFQAAAAAdAAAAABAE" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willamjonathan&label=Profile%20views&color=0e75b6&style=flat" alt="willamjonathan" /> </p>
 
 <h3 align="left">Connect with me:</h3>
