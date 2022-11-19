@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm William Jonathan</h1>
 <h3 align="center">A Computer Science student from Indonesia</h3>
 
-<img align="right" alt="coding" width="400"src="https://miro.medium.com/max/1100/1*3Jfqp1MsC8i1fFiUwt9sEA.webp" >
-<p align="left"> <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </p>
+<img align="right" alt="coding" width="400"src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" >
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=willamjonathan&label=Profile%20views&color=0e75b6&style=flat" alt="willamjonathan" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
